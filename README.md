@@ -5,5 +5,33 @@ Feather Generator for 3ds Max
 
 #[Download](https://github.com/CreativeTools/ct-feather-generator/raw/master/ct-feather-generator.ms)
 
+##Usage
+Download the .ms file from the link above.
+Open 3ds Max and click *MAXScript* -> *Run Script*.
+Navigate to the folder where you saved the .ms file, select it and press *Open*
+
 ##Settings
-* Todo
+* Random Seed
+    * Each random seed gives you a new variation of the feather
+* Feather Length
+    * The length of the feather
+* Feather Width
+    * The width of the feather
+* Barb Details
+    * The number of control points in each barb spline
+* Barb Count
+    * The number of barbs on each side of the feather
+* Calamus Length
+    * The length of the calamus (the part below the barbs)
+* Barb Length
+    * The length of the barbs along the feather
+* Barb Length Variation
+    * The amount of random variation of the barb length
+* Barb Angle
+    * The angle at which the barbs grow from the rachis
+* Barb Bend
+    * How bent the barbs are
+* Barb Noise
+    * 3D noise applied to the barbs
+* Barb Frizz
+    * Random noise applied to the barbs
