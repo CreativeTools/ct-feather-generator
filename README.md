@@ -3,7 +3,7 @@ Feather Generator for 3ds Max
 
 > MAXScript for generating procedural feathers.
 
-#[Download](https://github.com/CreativeTools/ct-feather-generator/raw/master/ct-feather-generator.ms)
+#[Download](http://bit.ly/11FWZ7f)
 
 ##Usage
 Download the .ms file from the link above.
