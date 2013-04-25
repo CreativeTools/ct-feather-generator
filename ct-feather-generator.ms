@@ -152,24 +152,6 @@ rollout featherGeneratorRollout "Creative Tools Feather Generator"
 	on uiGenerate pressed do(
 		generate()
 	)
-	on uiRandomSeed changed val do (
-		autoGenerate()
-	)
-	on uiFeatherLength changed val do (
-		autoGenerate()
-	)
-	on uiFeatherWidth changed val do (
-		autoGenerate()
-	)
-	on uiBarbDetails changed val do (
-		autoGenerate()
-	)
-	on uiBarbSpacing changed val do (
-		autoGenerate()
-	)
-	on uiCalamusLength changed val do (
-		autoGenerate()
-	)
 )
 
 featherFloater = newRolloutFloater "CT Feather Generator" 400 800 
