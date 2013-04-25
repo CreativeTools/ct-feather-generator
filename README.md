@@ -5,6 +5,8 @@ Feather Generator for 3ds Max
 
 #[Download](http://bit.ly/11FWZ7f)
 
+![Feather Render](http://www.creativetools.se/blog_static/media/7088_veckans-ct-freebie:-fjadergenerator-till-3ds-max.jpg)
+
 ##Usage
 Download the .ms file from the link above.
 Open 3ds Max and click *MAXScript* -> *Run Script*.
