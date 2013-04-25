@@ -8,7 +8,10 @@ Feather Generator for 3ds Max
 ##Usage
 Download the .ms file from the link above.
 Open 3ds Max and click *MAXScript* -> *Run Script*.
-Navigate to the folder where you saved the .ms file, select it and press *Open*
+Navigate to the folder where you saved the .ms file, select it and press *Open*  
+
+Pressing *Generate* in the script will generate a new feather and delete the old one. It will delete all
+objects named *Barbs* or *Rachis*. If you want to save your feather make sure to rename the objects to something else before pressing *Generate* again.
 
 ##Settings
 * Random Seed
