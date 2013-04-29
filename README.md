@@ -40,3 +40,8 @@ objects named *Barbs* or *Rachis*. If you want to save your feather make sure to
     * 3D noise applied to the barbs
 * Barb Frizz
     * Random noise applied to the barbs
+
+##CG News
+Visit the Creative Tools blog for your daily dose of CG news.
+###[English](http://translate.google.com/translate?js=n&sl=auto&tl=en&u=http://www.creativetools.se/blog/)
+###[Swedish](http://www.creativetools.se/blog/)
